@@ -69,3 +69,7 @@ app/src/main/java/com/carlos/dohome/
 
 - Protocolo baseado na biblioteca [dohome-api](https://github.com/mishamyrt/dohome_api) (MIT), de Mikhael Khrustik, e no repositório oficial [SmartArduino/DoHome](https://github.com/SmartArduino/DoHome).
 - Nomes e curvas das animações da [ai-motion-library](https://github.com/apenasdouglas/ai-motion-library) (MIT).
+
+## Licença
+
+[MIT](LICENSE). Pode usar, modificar e distribuir, mantendo o aviso de copyright.
