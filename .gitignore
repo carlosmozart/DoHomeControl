@@ -1,0 +1,24 @@
+# Gradle / Android Studio
+.gradle/
+.kotlin/
+build/
+/app/build/
+.idea/
+*.iml
+.cxx/
+captures/
+.externalNativeBuild/
+
+# Arquivos locais (caminhos da máquina, chaves)
+local.properties
+*.jks
+*.keystore
+keystore.properties
+
+# APKs ficam nas Releases do GitHub, não no código
+*.apk
+*.aab
+
+# Sistema
+.DS_Store
+Thumbs.db
